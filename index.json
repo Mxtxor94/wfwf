@@ -1,0 +1,14 @@
+[
+  {
+    "id": "my-wolfdotcom-source",
+    "name": "나의 늑대닷컴",
+    "vendor": "MySelf",
+    "description": "내가 직접 주소 고쳐 쓰는 늑대닷컴 익스텐션",
+    "version": "1.0.0",
+    "lang": "ko",
+    "license": "MIT",
+    "website": "https://wfwf416.com",
+    "filename": "wolfdotcom.js",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  }
+]
